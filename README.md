@@ -14,5 +14,6 @@ http://localhost:3000/api
 http://localhost:3000/api/images
 
 #### Examples
-
+* http://localhost:3000/api/images?filename=fjord&width=100&height=100
+* http://localhost:3000/api/images?filename=santamonica&width=2000&height=2000
 
