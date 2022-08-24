@@ -8,6 +8,6 @@ This is an image processing api project
 * run jasmine `npm run jasmine` or you can run test script `npm run test`
 * start your server `npm run start`
 ## Endpoint
-(http://localhost:3000/api)
-(http://localhost:3000/api/images)
+http://localhost:3000/api
+http://localhost:3000/api/images
 
