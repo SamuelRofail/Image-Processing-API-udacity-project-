@@ -16,4 +16,6 @@ http://localhost:3000/api/images
 #### Examples
 * http://localhost:3000/api/images?filename=fjord&width=100&height=100
 * http://localhost:3000/api/images?filename=santamonica&width=2000&height=2000
+* http://localhost:3000/api/images?filename=icelandwaterfall&width=1000&height=1000
+* http://localhost:3000/api/images?filename=encenadaport&width=5000&height=500
 
